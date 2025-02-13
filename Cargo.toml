@@ -1,0 +1,11 @@
+[package]
+name = "music_player"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rodio = "0.20"
+eframe = "0.31"
+egui = "0.31"
+lofty = "0.22"
+rfd = "0.15"
